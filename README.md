@@ -2,7 +2,6 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { motion } from "framer-motion"
 import { CheckCircle } from "lucide-react"
-
 export default function PaginaVendaCurso() {
   return (
     <div className="min-h-screen bg-gradient-to-b from-blue-50 to-white text-gray-800">
